@@ -5,7 +5,6 @@
       "name": "Scythe",
       "players": [1, 5],
       "time": 115,
-      "image": "scythe",
       "tutorial": "https://www.youtube.com/watch?v=8ULIn22Dikc",
       "owners": ["ghigo"]
     },
@@ -13,7 +12,6 @@
       "name": "Alta Tensione",
       "players": [2, 6],
       "time": 120,
-      "image": "alta-tensione",
       "tutorial": "https://www.youtube.com/watch?v=c89wRttraBw",
       "owners": ["ghigo"]
     },
@@ -21,7 +19,6 @@
       "name": "Dixit",
       "players": [3, 12],
       "time": 30,
-      "image": "dixit",
       "tutorial": "https://www.youtube.com/watch?v=BvtJ8EuBCzM",
       "owners": ["ghigo", "pastrello"]
     },
@@ -29,7 +26,6 @@
       "name": "7 Wonders",
       "players": [3, 7],
       "time": 30,
-      "image": "7wonders",
       "tutorial": "https://www.youtube.com/watch?v=EDaObbZJnSg",
       "owners": ["ghigo"]
     },
@@ -37,7 +33,6 @@
       "name": "Puerto Rico",
       "players": [2, 5],
       "time": 120,
-      "image": "puerto-rico",
       "tutorial": "https://www.youtube.com/watch?v=Ud1UDhFPKjk",
       "owners": ["ghigo", "pastrello"]
     },
@@ -45,7 +40,6 @@
       "name": "Fallout Shelter",
       "players": [2, 4],
       "time": 90,
-      "image": "fallout-shelter",
       "tutorial": "https://www.youtube.com/watch?v=kpRYadadoJo",
       "owners": ["ghigo"]
     },
@@ -53,7 +47,6 @@
       "name": "Saboteur",
       "players": [2, 12],
       "time": 30,
-      "image": "saboteur",
       "tutorial": "https://www.youtube.com/watch?v=2D-zA4t53Jw",
       "owners": ["ghigo", "pastrello"]
     },
@@ -61,7 +54,6 @@
       "name": "The Mind",
       "players": [2, 4],
       "time": 20,
-      "image": "the-mind",
       "tutorial": "https://www.youtube.com/watch?v=D12sgqMEuvw",
       "owners": ["ghigo", "pastrello"]
     },
@@ -69,7 +61,6 @@
       "name": "Munchkin",
       "players": [3, 6],
       "time": 120,
-      "image": "munchkin",
       "tutorial": "https://www.youtube.com/watch?v=XVcvMCRmFZA&list=PLx7ag3tMm3oVmoSUrqKtIPBC_kq7jqsth",
       "owners": ["ghigo"]
     },
@@ -77,7 +68,6 @@
       "name": "Tellstones",
       "players": [2, 4],
       "time": 20,
-      "image": "tellstones",
       "tutorial": "https://www.youtube.com/watch?v=P4AOjC_HBQA",
       "owners": ["ghigo"]
     },
@@ -85,7 +75,6 @@
       "name": "Pandemic",
       "players": [2, 4],
       "time": 45,
-      "image": "pandemic",
       "tutorial": "https://www.youtube.com/watch?v=bEnRvHnmlsQ",
       "owners": ["pastrello"]
     },
@@ -93,7 +82,6 @@
       "name": "Exploding Kittens",
       "players": [2, 5],
       "time": 15,
-      "image": "exploding-kittens",
       "tutorial": "https://www.youtube.com/watch?v=p8cJQqTSPuw",
       "owners": ["pastrello"]
     },
@@ -101,7 +89,6 @@
       "name": "Case Della Follia",
       "players": [1, 5],
       "time": 120,
-      "image": "case-della-follia",
       "tutorial": "https://www.youtube.com/watch?v=NJi0xAZJL0A",
       "owners": ["pastrello"]
     },
@@ -109,7 +96,6 @@
       "name": "Coloni Di Catan",
       "players": [3, 4],
       "time": 60,
-      "image": "coloni-catan",
       "tutorial": "https://www.youtube.com/watch?v=RyxlNz5St-c",
       "owners": ["pastrello"]
     },
@@ -117,7 +103,6 @@
       "name": "Labirinto",
       "players": [2, 4],
       "time": 20,
-      "image": "labirinto",
       "tutorial": "https://www.youtube.com/watch?v=r6EUyByYsIw",
       "owners": ["pastrello"]
     },
@@ -125,7 +110,6 @@
       "name": "Doodles",
       "players": [3, 7],
       "time": 45,
-      "image": "doodles",
       "tutorial": "https://www.youtube.com/watch?v=fAnAxCy7KMY",
       "owners": ["pastrello"]
     },
@@ -133,7 +117,6 @@
       "name": "Imagine",
       "players": [3, 8],
       "time": 30,
-      "image": "imagine",
       "tutorial": "https://www.youtube.com/watch?v=1ajpfERI_3o",
       "owners": ["pastrello"]
     },
@@ -141,7 +124,6 @@
       "name": "Cluedo",
       "players": [2, 6],
       "time": 60,
-      "image": "cluedo",
       "tutorial": "https://www.youtube.com/watch?v=P8NYfYRZ5H4",
       "owners": ["pastrello"]
     },
@@ -149,7 +131,6 @@
       "name": "Monopoli",
       "players": [2, 6],
       "time": 120,
-      "image": "monopoli",
       "tutorial": "https://www.youtube.com/watch?v=8vtZ0jTflHs",
       "owners": ["pastrello"]
     },
@@ -157,7 +138,6 @@
       "name": "Taboo",
       "players": [4, 20],
       "time": 60,
-      "image": "taboo",
       "tutorial": "https://www.youtube.com/watch?v=XI6HHf0cWV0",
       "owners": ["ghigo"]
     },
@@ -165,7 +145,6 @@
       "name": "Dobble",
       "players": [2, 8],
       "time": 15,
-      "image": "dobble",
       "tutorial": "https://www.youtube.com/watch?v=8IZhwkljIu4",
       "owners": ["pastrello"]
     },
@@ -173,7 +152,6 @@
       "name": "Game Off",
       "players": [3, 20],
       "time": 120,
-      "image": "game-off",
       "tutorial": "https://www.youtube.com/watch?v=PYiPln-YUSk",
       "owners": ["pastrello"]
     },
@@ -181,7 +159,6 @@
       "name": "Coco Rido",
       "players": [3, 12],
       "time": 30,
-      "image": "coco-rido",
       "tutorial": "https://www.youtube.com/watch?v=prkhSKq03HA",
       "owners": ["pastrello"]
     }
