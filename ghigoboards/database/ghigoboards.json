@@ -1,0 +1,85 @@
+{
+  "owners": [{ "name": "ghigo" }, { "name": "pastrello" }, { "name": "dentari" }],
+  "games": [
+    {
+      "name": "Scythe",
+      "players": [1, 5],
+      "time": 115,
+      "image": "scythe",
+      "tutorial": "https://www.youtube.com/watch?v=8ULIn22Dikc",
+      "owners": ["ghigo"]
+    },
+    {
+      "name": "Alta Tensione",
+      "players": [2, 6],
+      "time": 120,
+      "image": "alta-tensione",
+      "tutorial": "https://www.youtube.com/watch?v=c89wRttraBw",
+      "owners": ["ghigo"]
+    },
+    {
+      "name": "Dixit",
+      "players": [3, 12],
+      "time": 30,
+      "image": "dixit",
+      "tutorial": "https://www.youtube.com/watch?v=BvtJ8EuBCzM",
+      "owners": ["ghigo", "pastrello"]
+    },
+    {
+      "name": "7 Wonders",
+      "players": [3, 7],
+      "time": 30,
+      "image": "7wonders",
+      "tutorial": "https://www.youtube.com/watch?v=EDaObbZJnSg",
+      "owners": ["ghigo"]
+    },
+    {
+      "name": "Puerto Rico",
+      "players": [2, 5],
+      "time": 120,
+      "image": "puerto-rico",
+      "tutorial": "https://www.youtube.com/watch?v=Ud1UDhFPKjk",
+      "owners": ["ghigo", "pastrello"]
+    },
+    {
+      "name": "Fallout Shelter",
+      "players": [2, 4],
+      "time": 90,
+      "image": "fallout-shelter",
+      "tutorial": "https://www.youtube.com/watch?v=kpRYadadoJo",
+      "owners": ["ghigo"]
+    },
+    {
+      "name": "Saboteur",
+      "players": [2, 12],
+      "time": 30,
+      "image": "saboteur",
+      "tutorial": "https://www.youtube.com/watch?v=2D-zA4t53Jw",
+      "owners": ["ghigo", "pastrello"]
+    },
+    {
+      "name": "The Mind",
+      "players": [2, 4],
+      "time": 20,
+      "image": "the-mind",
+      "tutorial": "https://www.youtube.com/watch?v=D12sgqMEuvw",
+      "owners": ["ghigo", "pastrello"]
+    },
+    {
+      "name": "Munchkin",
+      "players": [3, 6],
+      "time": 120,
+      "image": "munchkin",
+      "tutorial": "https://www.youtube.com/watch?v=XVcvMCRmFZA&list=PLx7ag3tMm3oVmoSUrqKtIPBC_kq7jqsth",
+      "owners": ["ghigo"]
+    },
+    {
+      "name": "Tellstones",
+      "players": [2, 4],
+      "time": 20,
+      "image": "tellstones",
+      "tutorial": "https://www.youtube.com/watch?v=P4AOjC_HBQA",
+      "owners": ["ghigo"]
+    }
+  ]
+}
