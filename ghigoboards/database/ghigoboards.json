@@ -10,6 +10,14 @@
       "owners": ["ghigo"]
     },
     {
+      "name": "Pandemic",
+      "players": [2, 4],
+      "time": 45,
+      "image": "pandemic",
+      "tutorial": "https://www.youtube.com/watch?v=bEnRvHnmlsQ",
+      "owners": ["pastrello"]
+    },
+    {
       "name": "Alta Tensione",
       "players": [2, 6],
       "time": 120,
