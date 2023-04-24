@@ -90,7 +90,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "exploding kittens",
+      "name": "Exploding Kittens",
       "players": [2, 5],
       "time": 15,
       "image": "exploding-kittens",
@@ -98,7 +98,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "case della follia",
+      "name": "Case Della Follia",
       "players": [1, 5],
       "time": 120,
       "image": "case-della-follia",
@@ -106,7 +106,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "coloni catan",
+      "name": "Coloni Di Catan",
       "players": [3, 4],
       "time": 60,
       "image": "coloni-catan",
@@ -114,7 +114,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "labirinto",
+      "name": "Labirinto",
       "players": [2, 4],
       "time": 20,
       "image": "labirinto",
@@ -122,7 +122,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "doodles",
+      "name": "Doodles",
       "players": [3, 7],
       "time": 45,
       "image": "doodles",
@@ -130,7 +130,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "imagine",
+      "name": "Imagine",
       "players": [3, 8],
       "time": 30,
       "image": "imagine",
@@ -138,7 +138,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "cluedo",
+      "name": "Cluedo",
       "players": [2, 6],
       "time": 60,
       "image": "cluedo",
@@ -146,7 +146,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "monopoli",
+      "name": "Monopoli",
       "players": [2, 6],
       "time": 120,
       "image": "monopoli",
@@ -154,7 +154,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "taboo",
+      "name": "Taboo",
       "players": [4, 20],
       "time": 60,
       "image": "taboo",
@@ -162,7 +162,7 @@
       "owners": ["ghigo"]
     },
     {
-      "name": "dobble",
+      "name": "Dobble",
       "players": [2, 8],
       "time": 15,
       "image": "dobble",
@@ -170,7 +170,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "game off",
+      "name": "Game Off",
       "players": [3, 20],
       "time": 120,
       "image": "game-off",
@@ -178,7 +178,7 @@
       "owners": ["pastrello"]
     },
     {
-      "name": "coco rido",
+      "name": "Coco Rido",
       "players": [3, 12],
       "time": 30,
       "image": "coco-rido",
