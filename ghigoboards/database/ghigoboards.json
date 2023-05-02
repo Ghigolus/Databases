@@ -16,6 +16,13 @@
       "owners": ["ghigo"]
     },
     {
+      "name": "Galaxy Trucker",
+      "players": [2, 4],
+      "time": 60,
+      "tutorial": "https://www.youtube.com/watch?v=9vqr6LR65Ik",
+      "owners": ["ghigo"]
+    },
+    {
       "name": "Dixit",
       "players": [3, 12],
       "time": 30,
