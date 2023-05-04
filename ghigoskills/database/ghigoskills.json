@@ -4,7 +4,7 @@
     {
       "name": "html",
       "type": "WebDev",
-      "desc": "This is a simple description",
+      "desc": "I have a solid understanding of HTML and its syntax. I am able to effectively structure content and create semantic markup, which improves accessibility and search engine optimization (SEO).",
       "notes": [
         "this is the note 1",
         "this is the note 2",
@@ -17,8 +17,18 @@
         "this is the note 9"
       ]
     },
-    { "name": "css", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "js", "type": "WebDev", "desc": "", "notes": [] },
+    {
+      "name": "css",
+      "type": "WebDev",
+      "desc": "I have a strong grasp of CSS and its capabilities, including its box model, layout, and typography features. I am able to use CSS to create responsive designs that work well across different screen sizes and devices.",
+      "notes": []
+    },
+    {
+      "name": "js",
+      "type": "WebDev",
+      "desc": "I have a deep understanding of JavaScript and its core concepts, including variables, functions, loops, and conditionals. I am able to write modular and reusable code, and I am familiar with modern JavaScript frameworks and libraries",
+      "notes": []
+    },
     { "name": "react", "type": "WebDev", "desc": "", "notes": [] },
     { "name": "tailwind", "type": "WebDev", "desc": "", "notes": [] },
     { "name": "nodejs", "type": "WebDev", "desc": "", "notes": [] },
