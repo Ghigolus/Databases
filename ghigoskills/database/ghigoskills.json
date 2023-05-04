@@ -29,55 +29,295 @@
       "desc": "I have a deep understanding of JavaScript and its core concepts, including variables, functions, loops, and conditionals. I am able to write modular and reusable code, and I am familiar with modern JavaScript frameworks and libraries",
       "notes": []
     },
-    { "name": "react", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "tailwind", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "nodejs", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "express", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "mongodb", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "mysql", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "docker", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "npm", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "bootstrap", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "postman", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "jquery", "type": "WebDev", "desc": "", "notes": [] },
-    { "name": "csharp", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "unity", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "git", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "github", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "python", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "vba", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "pandas", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "scripting", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "sql", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "sqlite", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "regex", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "markdown", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "kotlin", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "datastruct", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "raspberry", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "arduino", "type": "Coding", "desc": "", "notes": [] },
-    { "name": "linux", "type": "IT", "desc": "", "notes": [] },
-    { "name": "ssh", "type": "IT", "desc": "", "notes": [] },
-    { "name": "vim", "type": "IT", "desc": "", "notes": [] },
-    { "name": "networking", "type": "IT", "desc": "", "notes": [] },
-    { "name": "OS", "type": "IT", "desc": "", "notes": [] },
-    { "name": "digitalocean", "type": "IT", "desc": "", "notes": [] },
+    {
+      "name": "react",
+      "type": "WebDev",
+      "desc": "I have a strong understanding of React and its core principles, including components, state, and props. I am able to create dynamic and interactive user interfaces using React, and I am familiar with modern React frameworks and libraries.",
+      "notes": []
+    },
+    {
+      "name": "tailwind",
+      "type": "WebDev",
+      "desc": "I have a solid grasp of Tailwind and its utility-first approach to CSS. I am able to use Tailwind to rapidly prototype and design responsive and accessible web interfaces.",
+      "notes": []
+    },
+    {
+      "name": "nodejs",
+      "type": "WebDev",
+      "desc": "I have a deep understanding of Node.js and its capabilities, including its event-driven architecture, non-blocking I/O, and the Node.js runtime environment. I am able to use Node.js to build scalable and high-performance applications.",
+      "notes": []
+    },
+    {
+      "name": "express",
+      "type": "WebDev",
+      "desc": "I have a strong understanding of the Express framework and its middleware system. I am able to create robust and scalable web applications using Express, and I am familiar with modern Express libraries and plugins.",
+      "notes": []
+    },
+    {
+      "name": "mongodb",
+      "type": "WebDev",
+      "desc": "I have a solid grasp of MongoDB and its NoSQL database model. I am able to design and implement scalable and performant database architectures using MongoDB, and I am familiar with modern MongoDB tools and libraries.",
+      "notes": []
+    },
+    {
+      "name": "mysql",
+      "type": "WebDev",
+      "desc": "I have a strong understanding of MySQL and its relational database model. I am able to design and implement complex database schemas and queries using MySQL, and I am familiar with modern MySQL tools and libraries.",
+      "notes": []
+    },
+    {
+      "name": "docker",
+      "type": "WebDev",
+      "desc": "I have a deep understanding of Docker and its containerization technology. I am able to use Docker to create isolated and portable development and production environments, and I am familiar with modern Docker tools and platforms.",
+      "notes": []
+    },
+    {
+      "name": "npm",
+      "type": "WebDev",
+      "desc": "I have a strong understanding of npm and its package management capabilities. I am able to use npm to install and manage dependencies, as well as publish and distribute packages to the wider developer community.",
+      "notes": []
+    },
+    {
+      "name": "bootstrap",
+      "type": "WebDev",
+      "desc": "I have a solid grasp of Bootstrap and its responsive grid system and UI components. I am able to use Bootstrap to rapidly prototype and design modern and accessible web interfaces.",
+      "notes": []
+    },
+    {
+      "name": "postman",
+      "type": "WebDev",
+      "desc": "I have a strong understanding of Postman and its API development and testing capabilities. I am able to use Postman to create and test APIs, as well as collaborate with team members on API development.",
+      "notes": []
+    },
+    {
+      "name": "jquery",
+      "type": "WebDev",
+      "desc": "I have a solid grasp of jQuery and its DOM manipulation and event handling features. I am able to use jQuery to create dynamic and interactive web interfaces, and I am familiar with modern jQuery plugins and libraries.",
+      "notes": []
+    },
+    {
+      "name": "csharp",
+      "type": "Coding",
+      "desc": "I have a strong understanding of C# and its object-oriented programming concepts, including classes, inheritance, and polymorphism. I am able to create scalable and performant applications using C# and modern .NET frameworks and libraries.",
+      "notes": []
+    },
+    {
+      "name": "unity",
+      "type": "Coding",
+      "desc": "I have a solid grasp of Unity and its game development features, including its physics engine, scripting API, and cross-platform deployment capabilities. I am able to create immersive and interactive 2D and 3D games using Unity.",
+      "notes": []
+    },
+    {
+      "name": "git",
+      "type": "Coding",
+      "desc": "I have a deep understanding of Git and its version control features, including branching, merging, and conflict resolution. I am able to use Git to manage code changes and collaborate effectively with other developers.",
+      "notes": []
+    },
+    {
+      "name": "github",
+      "type": "Coding",
+      "desc": "I have a strong understanding of GitHub and its code hosting and collaboration features, including issue tracking, pull requests, and continuous integration. I am able to use GitHub to contribute to open source projects and manage personal and team repositories.",
+      "notes": []
+    },
+    {
+      "name": "python",
+      "type": "Coding",
+      "desc": "I have a solid grasp of Python and its syntax, data structures, and built-in libraries. I am able to create scalable and efficient applications using Python, and I am familiar with modern Python frameworks and libraries.",
+      "notes": []
+    },
+    {
+      "name": "vba",
+      "type": "Coding",
+      "desc": "I have a strong understanding of VBA and its scripting capabilities in Microsoft Office applications. I am able to create macros and automate repetitive tasks in Excel and other Office applications using VBA.",
+      "notes": []
+    },
+    {
+      "name": "pandas",
+      "type": "Coding",
+      "desc": "I have a solid grasp of Pandas and its data manipulation and analysis features in Python. I am able to use Pandas to clean, transform, and analyze large datasets efficiently and effectively.",
+      "notes": []
+    },
+    {
+      "name": "scripting",
+      "type": "Coding",
+      "desc": "I have a deep understanding of scripting languages and their use cases, including Python, Bash, and PowerShell. I am able to create scripts to automate repetitive tasks and streamline workflows.",
+      "notes": []
+    },
+    {
+      "name": "sql",
+      "type": "Coding",
+      "desc": "I have a strong understanding of SQL and its relational database model. I am able to create and query databases using SQL, and I am familiar with modern SQL frameworks and libraries.",
+      "notes": []
+    },
+    {
+      "name": "sqlite",
+      "type": "Coding",
+      "desc": "I have a solid grasp of SQLite and its lightweight and portable database features. I am able to create and manage SQLite databases for local and mobile applications.",
+      "notes": []
+    },
+    {
+      "name": "regex",
+      "type": "Coding",
+      "desc": "I have a strong understanding of regular expressions and their syntax and usage. I am able to use regular expressions to search, match, and manipulate text efficiently and effectively.",
+      "notes": []
+    },
+    {
+      "name": "markdown",
+      "type": "Coding",
+      "desc": "I have a solid grasp of Markdown and its syntax for formatting and structuring text. I am able to create and publish content using Markdown in various contexts, including documentation and blogging.",
+      "notes": []
+    },
+    {
+      "name": "kotlin",
+      "type": "Coding",
+      "desc": "I have a deep understanding of Kotlin and its object-oriented and functional programming features. I am able to create scalable and efficient applications using Kotlin and modern Android frameworks and libraries.",
+      "notes": []
+    },
+    {
+      "name": "datastruct",
+      "type": "Coding",
+      "desc": "I have a strong understanding of data structures and their implementation and usage, including arrays, linked lists, stacks, queues, trees, and graphs. I am able to choose and implement appropriate data structures for various algorithms and applications.",
+      "notes": []
+    },
+    {
+      "name": "raspberry",
+      "type": "Coding",
+      "desc": "I have a solid grasp of Raspberry Pi and its hardware and software capabilities. I am able to use Raspberry Pi to create and deploy various applications, including IoT and robotics",
+      "notes": []
+    },
+    {
+      "name": "arduino",
+      "type": "Coding",
+      "desc": "I have a strong understanding of Arduino and its microcontroller and programming features. I am able to use Arduino to create and deploy various applications, including IoT and robotics.",
+      "notes": []
+    },
+    {
+      "name": "linux",
+      "type": "IT",
+      "desc": "I have a deep understanding of Linux and its architecture, command-line interface, and system administration features. I am able to manage and configure Linux-based servers and workstations for various use cases, including web hosting and development.",
+      "notes": []
+    },
+    {
+      "name": "ssh",
+      "type": "IT",
+      "desc": "I have a solid grasp of SSH and its secure remote access features. I am able to use SSH to connect to and manage remote servers and workstations securely and efficiently.",
+      "notes": []
+    },
+    {
+      "name": "vim",
+      "type": "IT",
+      "desc": "I have a strong understanding of Vim and its powerful text editing and manipulation features. I am able to use Vim to edit and navigate text files efficiently and effectively, and I am familiar with various Vim plugins and configurations.",
+      "notes": []
+    },
+    {
+      "name": "networking",
+      "type": "IT",
+      "desc": "I have a deep understanding of computer networking and its concepts and protocols, including TCP/IP, DNS, DHCP, and HTTP. I am able to troubleshoot and configure network connections and devices, and I am familiar with modern networking technologies and trends.",
+      "notes": []
+    },
+    {
+      "name": "OS",
+      "type": "IT",
+      "desc": "I have a strong understanding of operating systems and their architecture, features, and usage. I am able to choose and configure appropriate operating systems for various applications and workloads, and I am familiar with modern operating systems and their trends.",
+      "notes": []
+    },
+    {
+      "name": "digitalocean",
+      "type": "IT",
+      "desc": "I have a solid grasp of DigitalOcean and its cloud hosting and infrastructure features. I am able to deploy and manage virtual servers and containers on DigitalOcean, and I am familiar with its various integrations and APIs.",
+      "notes": []
+    },
     { "name": "GPC", "type": "IT", "desc": "", "notes": [] },
-    { "name": "pcrepair", "type": "IT", "desc": "", "notes": [] },
-    { "name": "webcrawling", "type": "IT", "desc": "", "notes": [] },
-    { "name": "revit", "type": "Media", "desc": "", "notes": [] },
-    { "name": "autocad", "type": "Media", "desc": "", "notes": [] },
-    { "name": "blender", "type": "Media", "desc": "", "notes": [] },
-    { "name": "gimp", "type": "Media", "desc": "", "notes": [] },
-    { "name": "inkscape", "type": "Media", "desc": "", "notes": [] },
-    { "name": "krita", "type": "Media", "desc": "", "notes": [] },
-    { "name": "audacity", "type": "Media", "desc": "", "notes": [] },
-    { "name": "resolve", "type": "Media", "desc": "", "notes": [] },
-    { "name": "excel", "type": "Office", "desc": "", "notes": [] },
-    { "name": "word", "type": "Office", "desc": "", "notes": [] },
-    { "name": "outlook", "type": "Office", "desc": "", "notes": [] },
-    { "name": "access", "type": "Office", "desc": "", "notes": [] },
-    { "name": "publisher", "type": "Office", "desc": "", "notes": [] },
+    {
+      "name": "pcrepair",
+      "type": "IT",
+      "desc": "I have a deep understanding of PC hardware and software troubleshooting and repair. I am able to diagnose and resolve various PC issues, including hardware failures, software errors, and virus infections.",
+      "notes": []
+    },
+    {
+      "name": "webcrawling",
+      "type": "IT",
+      "desc": "I have a solid grasp of web crawling and its techniques and tools, including Python's Beautiful Soup and Scrapy frameworks. I am able to scrape and extract data from various websites efficiently and effectively, and I am familiar with ethical and legal considerations of web crawling.",
+      "notes": []
+    },
+    {
+      "name": "revit",
+      "type": "Media",
+      "desc": "I have a strong understanding of Revit and its features for building information modeling (BIM). I am able to create and edit 3D models of buildings and structures, and I am familiar with Revit's various tools and plugins for design, analysis, and documentation.",
+      "notes": []
+    },
+    {
+      "name": "autocad",
+      "type": "Media",
+      "desc": "I have a solid grasp of AutoCAD and its features for computer-aided design (CAD). I am able to create and edit 2D and 3D drawings of various designs and structures, and I am familiar with AutoCAD's various tools and workflows for drafting, annotation, and collaboration.",
+      "notes": []
+    },
+    {
+      "name": "blender",
+      "type": "Media",
+      "desc": "I have a strong understanding of Blender and its features for 3D modeling, animation, and rendering. I am able to create and edit 3D models and animations of various designs and characters, and I am familiar with Blender's various tools and workflows for rigging, texturing, and compositing.",
+      "notes": []
+    },
+    {
+      "name": "gimp",
+      "type": "Media",
+      "desc": "I have a solid grasp of GIMP and its features for raster graphics editing and manipulation. I am able to create and edit images and graphics for various applications and media, and I am familiar with GIMP's various tools and workflows for layering, color correction, and filtering.",
+      "notes": []
+    },
+    {
+      "name": "inkscape",
+      "type": "Media",
+      "desc": "I have a strong understanding of Inkscape and its features for vector graphics editing and manipulation. I am able to create and edit scalable and high-quality images and graphics for various applications and media, and I am familiar with Inkscape's various tools and workflows for path editing, text manipulation, and object transformation.",
+      "notes": []
+    },
+    {
+      "name": "krita",
+      "type": "Media",
+      "desc": "I have a solid grasp of Krita and its features for digital painting and drawing. I am able to create and edit paintings and illustrations for various applications and media, and I am familiar with Krita's various tools and workflows for brush creation, color management, and animation.",
+      "notes": []
+    },
+    {
+      "name": "audacity",
+      "type": "Media",
+      "desc": "I have a strong understanding of Audacity and its features for digital audio editing and manipulation. I am able to create and edit audio recordings and tracks for various applications and media, and I am familiar with Audacity's various tools and workflows for noise reduction, equalization, and effects processing.",
+      "notes": []
+    },
+    {
+      "name": "resolve",
+      "type": "Media",
+      "desc": "I have a solid grasp of DaVinci Resolve and its features for video editing, color correction, and post-production. I am able to create and edit video footage and sequences for various applications and media, and I am familiar with DaVinci Resolve's various tools and workflows for color grading, audio mixing, and visual effects.",
+      "notes": []
+    },
+    {
+      "name": "excel",
+      "type": "Office",
+      "desc": "I have a strong understanding of Excel and its features for data analysis, management, and visualization. I am able to create and manipulate spreadsheets, use formulas and functions to perform calculations, and create charts and graphs to present data.",
+      "notes": []
+    },
+    {
+      "name": "word",
+      "type": "Office",
+      "desc": "I have a solid grasp of Word and its features for document creation, editing, and formatting. I am able to create and edit documents, use styles and templates to apply consistent formatting, and use tools such as spelling and grammar check to ensure accuracy.",
+      "notes": []
+    },
+    {
+      "name": "outlook",
+      "type": "Office",
+      "desc": "I have a strong understanding of Outlook and its features for email management, scheduling, and communication. I am able to manage email accounts, create and schedule appointments and meetings, and use features such as rules and filters to organize and prioritize emails.",
+      "notes": []
+    },
+    {
+      "name": "access",
+      "type": "Office",
+      "desc": "I have a solid grasp of Access and its features for database creation, management, and reporting. I am able to create and manipulate databases, use queries and filters to extract data, and create forms and reports to present data in a user-friendly manner.",
+      "notes": []
+    },
+    {
+      "name": "publisher",
+      "type": "Office",
+      "desc": "I have a strong understanding of Publisher and its features for desktop publishing, design, and layout. I am able to create and edit professional-looking publications such as brochures, flyers, and newsletters, use templates and styles to apply consistent formatting, and add images and graphics to enhance the visual appeal.",
+      "notes": []
+    },
     { "name": "postgre", "type": "Studying", "desc": "", "notes": [] },
     { "name": "socketio", "type": "Studying", "desc": "", "notes": [] },
     { "name": "electron", "type": "Studying", "desc": "", "notes": [] },
