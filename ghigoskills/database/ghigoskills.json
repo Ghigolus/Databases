@@ -1,5 +1,42 @@
 {
   "categories": ["WebDev", "Coding", "IT", "Media", "Office", "Studying"],
+  "projects": [
+    {
+      "name": "airsoft machine",
+      "desc": "This app contains multiple modes for dynamic airsoft games management",
+      "link": "https://play.google.com/store/apps/details?id=com.GhigolusStudio.AirsoftMachine"
+    },
+    {
+      "name": "two souls",
+      "desc": "This is a competitive local multiplayer created with Unity",
+      "link": "https://play.google.com/store/apps/details?id=com.GhigolusGames.TwoSouls"
+    },
+    {
+      "name": "magic time counter",
+      "desc": "This app is a score and time counter for magic:the gathering games",
+      "link": "https://play.google.com/store/apps/details?id=com.GhigolusStudio.MagicTimeCounter"
+    },
+    {
+      "name": "progbars",
+      "desc": "This is a npm package that gives APIs for implementing CLI progress bars",
+      "link": "https://www.npmjs.com/package/progbars"
+    },
+    {
+      "name": "tellstones lab",
+      "desc": "This website is a fan-made digital remake of the tellstones board games by Riot Games",
+      "link": "https://tellstoneslab.netlify.app/"
+    },
+    {
+      "name": "audiobook player",
+      "desc": "This is an audiobook player which saves books status",
+      "link": "https://ghigobook.netlify.app/"
+    },
+    {
+      "name": "board games",
+      "desc": "This is a filtrable online catalog of owned board games",
+      "link": "https://ghigoboardgames.netlify.app/"
+    }
+  ],
   "skills": [
     {
       "name": "html",
