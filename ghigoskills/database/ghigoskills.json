@@ -33,7 +33,7 @@
     },
     {
       "name": "audiobook player",
-      "desc": "This is an audiobook player which saves books status",
+      "desc": "This is an audiobook player that saves books status",
       "link": "https://ghigobook.netlify.app/"
     }
   ],
