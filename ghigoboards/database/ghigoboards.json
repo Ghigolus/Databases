@@ -168,6 +168,77 @@
       "time": 30,
       "tutorial": "https://www.youtube.com/watch?v=prkhSKq03HA",
       "owners": ["pastrello"]
+    },
+    {
+      "name": "Happy Little Dinosaurs",
+      "players": [2, 4],
+      "time": 60,
+      "tutorial": "https://www.youtube.com/watch?v=ANOs40HB0xU",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Minions Dobble",
+      "players": [2, 8],
+      "time": 15,
+      "tutorial": "https://www.youtube.com/watch?v=8IZhwkljIu4&t=485s",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Trauma Del Tram",
+      "players": [3, 13],
+      "time": 15,
+      "tutorial": "https://www.youtube.com/watch?v=eii2-du5CX4",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Scala da 1 a trex",
+      "players": [2, 8],
+      "time": 15,
+      "tutorial": "https://www.youtube.com/watch?v=rdd0OQ7-iUU",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Bear VS Babies",
+      "players": [2, 5],
+      "time": 20,
+      "tutorial": "https://www.youtube.com/watch?v=2AdoyEIcEBo",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Ne Si Ne No",
+      "players": [2, 6],
+      "time": 30,
+      "tutorial": "https://www.youtube.com/watch?v=mmJcgxUIJ8w",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Trivial Pursuit Deluxe",
+      "players": [2, 4],
+      "time": 60,
+      "tutorial": "https://www.youtube.com/watch?v=N3jEsVP8YXg",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Michael",
+      "players": [1, 4],
+      "time": 75,
+      "tutorial": "https://www.youtube.com/watch?v=xz2xhOaqvlc",
+      "owners": ["pastrello"]
+    },
+    {
+      "name": "Scrabble",
+      "players": [2, 4],
+      "time": 50,
+      "tutorial": "https://www.youtube.com/watch?v=A0oGbGfUNpY&t=117s",
+      "owners": ["pastrello"]
+    },
+
+    {
+      "name": "Spqrisiko",
+      "players": [2, 5],
+      "time": 120,
+      "tutorial": "https://www.youtube.com/watch?v=T8bKz0NCdLE",
+      "owners": ["pastrello"]
     }
   ]
 }
