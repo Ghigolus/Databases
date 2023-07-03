@@ -1,5 +1,13 @@
 {
-  "categories": ["WebDev", "Coding", "IT", "Media", "Office", "Studying"],
+  "categories": [
+    "WebDev",
+    "DataScience",
+    "Coding",
+    "IT",
+    "Media",
+    "Office",
+    "Studying"
+  ],
   "projects": [
     {
       "name": "airsoft machine",
@@ -17,13 +25,13 @@
       "link": "https://play.google.com/store/apps/details?id=com.GhigolusStudio.MagicTimeCounter"
     },
     {
-      "name": "progbars",
-      "desc": "This is a npm package that gives APIs for implementing CLI progress bars",
-      "link": "https://www.npmjs.com/package/progbars"
-    },
-    {
       "name": "board games",
       "desc": "This is a filterable online catalog of owned board games",
+      "link": "https://pokestatsgame.netlify.app/"
+    },
+    {
+      "name": "pokestats training",
+      "desc": "This is an API based Pokemon webapp made in react and tailwind",
       "link": "https://ghigoboardgames.netlify.app/"
     },
     {
@@ -35,6 +43,11 @@
       "name": "audiobook player",
       "desc": "This is an audiobook player that saves books status",
       "link": "https://ghigobook.netlify.app/"
+    },
+    {
+      "name": "progbars",
+      "desc": "This is a npm package that gives APIs for implementing CLI progress bars",
+      "link": "https://www.npmjs.com/package/progbars"
     }
   ],
   "skills": [
@@ -133,6 +146,12 @@
       "notes": []
     },
     {
+      "name": "dbdesign",
+      "type": "IT",
+      "desc": "Experienced in database design, with expertise in designing efficient and scalable database schemas. Proficient in utilizing relational database management systems (RDBMS) and understanding concepts such as table normalization, indexing, and query optimization. Skilled in designing databases that meet specific business requirements while ensuring data integrity and performance.",
+      "notes": []
+    },
+    {
       "name": "csharp",
       "type": "Coding",
       "desc": "I have a strong understanding of C# and its object-oriented programming concepts, including classes, inheritance, and polymorphism. I am able to create scalable and performant applications using C# and modern .NET frameworks and libraries.",
@@ -163,15 +182,39 @@
       "notes": []
     },
     {
-      "name": "vba",
-      "type": "Coding",
-      "desc": "I have a strong understanding of VBA and its scripting capabilities in Microsoft Office applications. I am able to create macros and automate repetitive tasks in Excel and other Office applications using VBA.",
+      "name": "pandas",
+      "type": "DataScience",
+      "desc": "I have a solid grasp of Pandas and its data manipulation and analysis features in Python. I am able to use Pandas to clean, transform, and analyze large datasets efficiently and effectively.",
       "notes": []
     },
     {
-      "name": "pandas",
-      "type": "Coding",
-      "desc": "I have a solid grasp of Pandas and its data manipulation and analysis features in Python. I am able to use Pandas to clean, transform, and analyze large datasets efficiently and effectively.",
+      "name": "numpy",
+      "type": "DataScience",
+      "desc": "Proficient in NumPy, a powerful Python library for numerical computing. Skilled in utilizing its array-based computing functionalities, mathematical operations, and data manipulation techniques to efficiently process and analyze large datasets.",
+      "notes": []
+    },
+    {
+      "name": "matplotlib",
+      "type": "DataScience",
+      "desc": "Skilled in using Matplotlib, a popular data visualization library in Python. Proficient in creating various types of charts, plots, and graphs to effectively communicate data insights. Capable of customizing visualizations to match specific requirements and enhance data storytelling.",
+      "notes": []
+    },
+    {
+      "name": "jupyter",
+      "type": "DataScience",
+      "desc": "Experienced in working with Jupyter notebooks, an interactive computational environment that allows for code execution, data visualization, and collaboration. Proficient in leveraging Jupyter's features to create and share interactive data analysis, machine learning models, and data visualization projects.",
+      "notes": []
+    },
+    {
+      "name": "beautifulsoup",
+      "type": "DataScience",
+      "desc": "Proficient in Beautiful Soup, a Python library used for web scraping and parsing HTML/XML documents. Skilled in extracting structured data from websites, navigating the HTML structure, and performing data extraction tasks with ease. Experienced in automating data collection processes using Beautiful Soup.",
+      "notes": []
+    },
+    {
+      "name": "vba",
+      "type": "DataScience",
+      "desc": "I have a strong understanding of VBA and its scripting capabilities in Microsoft Office applications. I am able to create macros and automate repetitive tasks in Excel and other Office applications using VBA.",
       "notes": []
     },
     {
@@ -223,6 +266,12 @@
       "notes": []
     },
     {
+      "name": "cryptography",
+      "type": "IT",
+      "desc": "Knowledgeable in cryptography principles and algorithms, including symmetric and asymmetric encryption, digital signatures, and secure key management. Skilled in implementing encryption and decryption techniques in Python to ensure data confidentiality, integrity, and authenticity.",
+      "notes": []
+    },
+    {
       "name": "arduino",
       "type": "Coding",
       "desc": "I have a strong understanding of Arduino and its microcontroller and programming features. I am able to use Arduino to create and deploy various applications, including IoT and robotics.",
@@ -264,7 +313,12 @@
       "desc": "I have a solid grasp of DigitalOcean and its cloud hosting and infrastructure features. I am able to deploy and manage virtual servers and containers on DigitalOcean, and I am familiar with its various integrations and APIs.",
       "notes": []
     },
-    { "name": "GPC", "type": "IT", "desc": "", "notes": [] },
+    {
+      "name": "GPC",
+      "type": "IT",
+      "desc": "Experienced in harnessing the power of Google Play Console to manage and optimize Unity-based mobile applications. Proficient in integrating leaderboards, implementing effective price management strategies.",
+      "notes": []
+    },
     {
       "name": "pcrepair",
       "type": "IT",
