@@ -50,6 +50,23 @@
       "link": "https://www.npmjs.com/package/progbars"
     }
   ],
+  "certificates": [
+    {
+      "type": "udemy",
+      "name": "Udemy Tutorial 1",
+      "desc": "I have a strong grasp of CSS1 and its capabilities, including its box model, layout, and typography features. I am able to use CSS to create responsive designs that work well across different screen sizes and devices."
+    },
+    {
+      "type": "udemy",
+      "name": "Udemy Tutorial 2",
+      "desc": "I have a strong grasp of CSS2 and its capabilities, including its box model, layout, and typography features. I am able to use CSS to create responsive designs that work well across different screen sizes and devices."
+    },
+    {
+      "type": "udemy",
+      "name": "Udemy Tutorial 3",
+      "desc": "I have a strong grasp of CSS3 and its capabilities, including its box model, layout, and typography features. I am able to use CSS to create responsive designs that work well across different screen sizes and devices."
+    }
+  ],
   "skills": [
     {
       "name": "html",
