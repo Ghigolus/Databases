@@ -27,12 +27,12 @@
     {
       "name": "board games",
       "desc": "This is a filterable online catalog of owned board games",
-      "link": "https://pokestatsgame.netlify.app/"
+      "link": "https://ghigoboardgames.netlify.app/"
     },
     {
       "name": "pokestats training",
       "desc": "This is an API based Pokemon webapp made in react and tailwind",
-      "link": "https://ghigoboardgames.netlify.app/"
+      "link": "https://pokestatsgame.netlify.app/"
     },
     {
       "name": "tellstones lab",
