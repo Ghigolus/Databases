@@ -206,7 +206,7 @@
       "notes": []
     },
     {
-      "name": "beautifulsoup",
+      "name": "beautsoup",
       "type": "DataScience",
       "desc": "Proficient in Beautiful Soup, a Python library used for web scraping and parsing HTML/XML documents. Skilled in extracting structured data from websites, navigating the HTML structure, and performing data extraction tasks with ease. Experienced in automating data collection processes using Beautiful Soup.",
       "notes": []
@@ -266,7 +266,7 @@
       "notes": []
     },
     {
-      "name": "cryptography",
+      "name": "crypto",
       "type": "IT",
       "desc": "Knowledgeable in cryptography principles and algorithms, including symmetric and asymmetric encryption, digital signatures, and secure key management. Skilled in implementing encryption and decryption techniques in Python to ensure data confidentiality, integrity, and authenticity.",
       "notes": []
