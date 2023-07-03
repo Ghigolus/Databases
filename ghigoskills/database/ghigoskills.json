@@ -53,18 +53,68 @@
   "certificates": [
     {
       "type": "udemy",
-      "name": "Udemy Tutorial 1",
-      "desc": "I have a strong grasp of CSS1 and its capabilities, including its box model, layout, and typography features. I am able to use CSS to create responsive designs that work well across different screen sizes and devices."
+      "name": "Complete C# Masterclass",
+      "hours": 45
     },
     {
       "type": "udemy",
-      "name": "Udemy Tutorial 2",
-      "desc": "I have a strong grasp of CSS2 and its capabilities, including its box model, layout, and typography features. I am able to use CSS to create responsive designs that work well across different screen sizes and devices."
+      "name": "Gimp Masterclass",
+      "hours": 40
     },
     {
       "type": "udemy",
-      "name": "Udemy Tutorial 3",
-      "desc": "I have a strong grasp of CSS3 and its capabilities, including its box model, layout, and typography features. I am able to use CSS to create responsive designs that work well across different screen sizes and devices."
+      "name": "The Git and GitHub Bootcamp",
+      "hours": 17
+    },
+    {
+      "type": "udemy",
+      "name": "Unity 2d Art",
+      "hours": 5
+    },
+    {
+      "type": "udemy",
+      "name": "The Web Developer Bootcamp",
+      "hours": 73
+    },
+    {
+      "type": "udemy",
+      "name": "2D Game Artist: Learn GIMP For Game Art",
+      "hours": 18
+    },
+    {
+      "type": "udemy",
+      "name": "Javascript Algorithms And Data Structures Masterclass",
+      "hours": 22
+    },
+    {
+      "type": "udemy",
+      "name": "Powerpoint 2019",
+      "hours": 9
+    },
+    {
+      "type": "udemy",
+      "name": "CompTIA A+ 220-1001",
+      "hours": 18
+    },
+    {
+      "type": "udemy",
+      "name": "Unity Pro Builder",
+      "hours": 16
+    },
+    {
+      "type": "udemy",
+      "name": "Beginner Unity Multiplayer",
+      "hours": 2
+    },
+    {
+      "type": "udemy",
+      "name": "Data Analysis with Pandas and Python",
+      "hours": 22
+    },
+    {
+      "type": "udemy",
+      "name": "Modern Unity UI with UI Toolkit",
+      "hours": 20
     }
   ],
   "skills": [
