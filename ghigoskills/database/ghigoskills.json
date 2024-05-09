@@ -249,6 +249,12 @@
       "notes": []
     },
     {
+      "name": "selenium",
+      "type": "Coding",
+      "desc": "I have a solid grasp of Selenium and its syntax. I am able to gather data from a lot of different website layout and create automation scripts.",
+      "notes": []
+    },
+    {
       "name": "pandas",
       "type": "DataScience",
       "desc": "I have a solid grasp of Pandas and its data manipulation and analysis features in Python. I am able to use Pandas to clean, transform, and analyze large datasets efficiently and effectively.",
