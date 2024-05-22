@@ -309,6 +309,12 @@
       "notes": []
     },
     {
+      "name": "lua",
+      "type": "Coding",
+      "desc": "I have built some retrò devices with this programming language",
+      "notes": []
+    },
+    {
       "name": "regex",
       "type": "Coding",
       "desc": "I have a strong understanding of regular expressions and their syntax and usage. I am able to use regular expressions to search, match, and manipulate text efficiently and effectively.",
